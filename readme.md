@@ -1,4 +1,4 @@
-# Capstone Project: Time-Sensitive Networking (TSN) Algorithms
+# Prism Scheduling Algorithm: Time-Sensitive Networking (TSN) 
 ----------------------------------------
 This repository contains the C++ implementation and Python interface for evaluating various routing and scheduling algorithms in Time-Sensitive Networking (TSN).<br>
 
